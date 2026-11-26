@@ -1,0 +1,6 @@
+{
+  "name": "Samurai: Shadow of the Shogun",
+  "description": "A 3D feudal Japan samurai action RPG in the browser featuring katana combat, enemy AI, open-world regions, missions, procedural Web Audio, and local save progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
